@@ -1,0 +1,57 @@
+.jumbotron h2{
+    color: #AD0C18;
+    padding-bottom: 2px;
+}
+
+.media-body h4{
+    color: #AD0C18;
+}
+
+.panel{
+    padding-bottom: 10px;
+}
+
+.panel-modify{
+    padding-bottom: 2px;
+}
+
+.btn-h1-spacing {
+    margin-top: 18px;
+    margin-bottom: 0px;
+}
+
+.panel-red > .panel-heading {
+    color: #AD0C18;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus {
+    color: white;
+    background-color: #AD0C18;
+    margin-top: 16px;
+}
+
+.nav-pills > li > a {
+    margin-top: 16px;
+}
+
+
+.panel-form{
+    padding-bottom: 76px;
+}
+
+ul.list {
+    width: 300px;
+}
+
+.navbar-custom {
+    background-color: white;
+    padding-top: 20px;
+}
+
+li:active, a:active, a:focus{
+    color: red;
+}
+
+.navbar-left-custom {
+    padding-top: 10px;
+}
